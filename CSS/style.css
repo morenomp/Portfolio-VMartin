@@ -729,7 +729,7 @@ footer{
   width: 80vw;
   height: 75%;
   background-color: var(--color-blanco);
-/*   border-radius: 10px; */
+  border-radius: 10px;
 
   position: fixed;
   left: 50%;

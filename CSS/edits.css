@@ -28,6 +28,7 @@
     height: 300px;
     object-fit: cover;
     object-position: center;
+    border-radius: 10px;
 
     background: var(--color-blanco-proy-hover);
     cursor: zoom-in;

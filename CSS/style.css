@@ -811,6 +811,7 @@ footer{
     flex-direction: column;
     align-items: center;
     justify-content: center;
+    text-align: center;
   }
   .hoverSubMenu {
     color: var(--color-blanco) !important;
